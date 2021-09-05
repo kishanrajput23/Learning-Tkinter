@@ -41,6 +41,10 @@ We perhaps add one or more images to make our GUI more creative and presentable.
 
     ```root.mainloop()```
     
+# Output: The output of the code (or the GUI window) is given below:
+
+<img src="https://github.com/kishanrajput23/Learning-Tkinter/blob/main/CWH%20Tkinter%20Course/Lecture%205/swag_output.png" alt="">
+    
 **Note:**  If we need to work with other file formats (example: .jpg) the Python Imaging Library (PIL) contains classes that lets you load images in over 30 formats, and convert them to Tkinter-compatible image objects.  So in this case, we have to install pillow library (if it is not installed in the system) by writing pip install pillow in the terminal and then write the code as follows:
 
     from tkinter import *
@@ -60,3 +64,7 @@ We perhaps add one or more images to make our GUI more creative and presentable.
 - Take photo as another variable to store the image using PhotoImage() class.
 - Call the Label() widget and pack it.
 - Write the mainloop() method to run the application.
+
+# Output: The output of the code (or the GUI window) is given below:
+
+<img src="https://github.com/kishanrajput23/Learning-Tkinter/blob/main/CWH%20Tkinter%20Course/Lecture%205/jarvis_output.png" alt="">
